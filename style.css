@@ -1,4 +1,10 @@
-header{
+header {
     background-color: #383D58;
-    color:white;
+    color: white
+}
+.jordan{
+    width: 500px;
+    position: relative;
+    top: 50px;
+    left: 200px;
 }
